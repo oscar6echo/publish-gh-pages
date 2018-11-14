@@ -2,5 +2,6 @@
 .py[cod]
 .ipynb_checkpoints/
 .vscode/
+__pycache__/
 
 credentials.env
